@@ -6,16 +6,16 @@ import (
 	"strings"
 	"encoding/base64"
 
-	"github.com/aztecrabbit/liblog"
-	"github.com/aztecrabbit/libutils"
-	"github.com/aztecrabbit/libredsocks"
+	"github.com/Anggabaonks/liblog"
+	"https://github.com/Anggabaonks/libutils"
+	"github.com/Anggabaonks/libredsocks"
 )
 
 var (
 	Loop = true
 	DefaultConfig = &Config{
-		Account: "ss://YWVzLTI1Ni1jZmI6TjNaNXFMM2E@sg1-socks.jagoanssh.com:1443?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dtwitter.com#Jagoanssh",
-		ServerNameIndication: "twitter.com",
+		Account: "ss://YWVzLTI1Ni1jZmI6MTgzbmljb3NpYQ@49.213.16.151:1443?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dgooglevideo.com#GLOBALSSH",
+		ServerNameIndication: "googlevideo.com",
 	}
 )
 
