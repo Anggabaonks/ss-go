@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/aztecrabbit/liblog"
-	"github.com/aztecrabbit/libutils"
-	"github.com/aztecrabbit/libredsocks"
-	"github.com/aztecrabbit/brainfuck-tunnel-shadowsocks/src/libshadowsocks"
+	"github.com/Anggabaonks/liblog"
+	"github.com/Anggabaonks/libutils"
+	"github.com/Anggabaonks/libredsocks"
+	"github.com/Anggabaonks/ss-go/src/libshadowsocks"
 )
 
 const (
@@ -15,7 +15,7 @@ const (
 	appVersionCode = "1.3.200210"
 
 	copyrightYear = "2020"
-	copyrightAuthor = "Aztec Rabbit"
+	copyrightAuthor = "Anggabaonks"
 )
 
 var (
