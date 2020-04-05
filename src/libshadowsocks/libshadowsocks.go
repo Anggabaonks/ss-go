@@ -7,7 +7,7 @@ import (
 	"encoding/base64"
 
 	"github.com/Anggabaonks/liblog"
-	"https://github.com/Anggabaonks/libutils"
+	"github.com/Anggabaonks/libutils"
 	"github.com/Anggabaonks/libredsocks"
 )
 
