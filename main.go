@@ -15,7 +15,7 @@ const (
 	appVersionCode = "1.3.200210"
 
 	copyrightYear = "2020"
-	copyrightAuthor = "Anggabaonks"
+	copyrightAuthor = "Angga baonks"
 )
 
 var (
